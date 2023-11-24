@@ -1,6 +1,8 @@
 #!/usr/bin/env python
 # coding: utf-8
 
+$x=3$
+
 # In[1]:
 
 
